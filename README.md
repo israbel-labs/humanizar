@@ -21,7 +21,7 @@ Los patrones 1 al 26 tienen la misma numeración que el original, para que sea f
 | 10 | Adjetivos compuestos con guion | No aplica al español. Se reemplazó por calcos del inglés: "al final del día", "siéntete libre de", "hacer la diferencia". |
 | 11 | Voz pasiva y sujeto omitido | Invertido. En español omitir el sujeto es lo normal; la marca es el pronombre repetido y la pasiva con "fue... por". Se respeta el español caribeño y el "usted". |
 | 12 | Vocabulario de IA | Dos listas: palabras que son marca casi siempre y palabras comunes en la prensa y la administración latinoamericanas que solo cuentan si se acumulan. |
-| 15 | Frases con -ing | Incluye el gerundio de posterioridad, que la norma rechaza, y aclara los gerundios que la norma admite. |
+| 15 | Frases con -ing | Incluye el gerundio de posterioridad, que los modelos usan para encadenar hechos. La norma solo rechaza el que no tiene relación lógica con el verbo principal, y el skill lo distingue. |
 | 18 | Rodeos para no decir ser o tener | Más débil: "cuenta con" es normal en Latinoamérica. |
 | 20 | Mayúsculas en títulos | Más fuerte: la norma española pone mayúscula solo en la primera palabra. Incluye días y meses, y la mayúscula después de dos puntos. |
 | 21 | Comillas curvas | Unificar el estilo de comillas y poner el punto después de las de cierre, como pide la norma. |
