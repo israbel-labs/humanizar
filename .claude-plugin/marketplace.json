@@ -1,0 +1,17 @@
+{
+  "name": "humanizar",
+  "owner": {
+    "name": "Israbel Labs",
+    "url": "https://github.com/israbel-labs"
+  },
+  "description": "Instala el skill humanizar como plugin de Claude Code.",
+  "plugins": [
+    {
+      "name": "humanizar",
+      "source": "./",
+      "description": "Reescribe textos en español que suenan a IA para que suenen a quien los escribe, sin cambiar lo que dicen.",
+      "license": "MIT",
+      "keywords": ["escritura", "edición", "español", "humanizer", "estilo"]
+    }
+  ]
+}
