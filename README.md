@@ -40,7 +40,7 @@ Las listas de vocabulario (§10, §12, §13, §16 y §22) salen de los equivalen
 ### Claude Code como plugin (recomendado)
 
 ```text
-/plugin marketplace add israbel-labs/humanizar
+/plugin marketplace add ruwaia/humanizar
 /plugin install humanizar@humanizar
 ```
 
@@ -53,20 +53,20 @@ Clona el repositorio en tu carpeta de skills personales.
 Mac y Linux:
 
 ```bash
-git clone https://github.com/israbel-labs/humanizar.git ~/.claude/skills/humanizar
+git clone https://github.com/ruwaia/humanizar.git ~/.claude/skills/humanizar
 ```
 
 Windows (PowerShell):
 
 ```powershell
-git clone https://github.com/israbel-labs/humanizar.git "$HOME\.claude\skills\humanizar"
+git clone https://github.com/ruwaia/humanizar.git "$HOME\.claude\skills\humanizar"
 ```
 
 Para actualizar, ejecuta `git pull` dentro de esa carpeta.
 
 ### Claude Desktop y claude.ai
 
-Descarga `humanizar.zip` de la [última versión](https://github.com/israbel-labs/humanizar/releases/latest) y súbelo en «Personalizar › Skills». Para actualizar, sube el .zip nuevo.
+Descarga `humanizar.zip` de la [última versión](https://github.com/ruwaia/humanizar/releases/latest) y súbelo en «Personalizar › Skills». Para actualizar, sube el .zip nuevo.
 
 ## Uso
 
@@ -101,4 +101,4 @@ Cuando salga una versión nueva del original, revisa su `CHANGELOG.md` y traslad
 
 ## Licencia
 
-MIT. Basado en [Humanizer](https://github.com/blader/humanizer) de Siqi Chen. Adaptación de Israbel Labs.
+MIT. Basado en [Humanizer](https://github.com/blader/humanizer) de Siqi Chen. Adaptación de Ruwaia.

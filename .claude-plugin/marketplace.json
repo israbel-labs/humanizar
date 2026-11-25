@@ -1,8 +1,8 @@
 {
   "name": "humanizar",
   "owner": {
-    "name": "Israbel Labs",
-    "url": "https://github.com/israbel-labs"
+    "name": "Ruwaia",
+    "url": "https://github.com/ruwaia"
   },
   "description": "Instala el skill humanizar como plugin de Claude Code.",
   "plugins": [

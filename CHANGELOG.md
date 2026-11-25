@@ -1,5 +1,9 @@
 # Historial de cambios
 
+## 1.0.1
+
+- La cuenta de GitHub cambió de nombre a `ruwaia`. Los enlaces de instalación, el aviso de versión nueva y el autor ahora dicen Ruwaia.
+
 ## 1.0.0
 
 Primera versión publicada. Basada en Humanizer 4.0.0 y sus cambios sin publicar (commit `a32f244`, 2026-11-19).
